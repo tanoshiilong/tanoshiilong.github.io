@@ -1,0 +1,4 @@
+Sitemap: https://tanoshiilong.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: tanoshiilong.github.io
